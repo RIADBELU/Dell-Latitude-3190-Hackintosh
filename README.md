@@ -19,6 +19,8 @@ But, you'll need to know the materials, so, here's the materials needed.
 - 📦 [Kexts](./Kexts) — Essential kexts for this model
 - 📝 [config.plist](./EFI/OC/config.plist) — OpenCore configuration file
 
+To get these, download the ZIP file, included in my latest release called, "Dell.Latitude.3190.Hackintosh.v.1.0.0.beta.pre-release.zip"
+
 ---
 
 ## Things To Look At Beforehand
