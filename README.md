@@ -14,12 +14,14 @@ But, you'll need to know the materials, so, here's the materials needed.
 
 ## Materials
 
+- 💾 [USB Drive] — Required for the Internal Drive Guide
+- 💽 [External SSD] — Required for the External Drive Guide
 - 🛠️ [EFI Folder](./EFI) — Main EFI files for Hackintosh installation
-- 📚 [Docs](./docs) — Guides, troubleshooting, and documentation
-- 📦 [Kexts](./Kexts) — Essential kexts for this model
+- 📚 [Docs] — Guides, troubleshooting, and documentation for this project
+- 📦 [Kexts](./Kexts) — Essential kexts for the Dell Latitude 3190
 - 📝 [config.plist](./EFI/OC/config.plist) — OpenCore configuration file
 
-To get these, download the ZIP file, included in my latest release called, "Dell.Latitude.3190.Hackintosh.v.1.0.0.beta.pre-release.zip"
+To get the EFI Folder, containing the kexts, config.plist, e.t.c., download the ZIP file, included in my latest release called, "Dell.Latitude.3190.Hackintosh.v.1.0.0.beta.pre-release.zip"
 
 ---
 
@@ -139,7 +141,7 @@ This method will overwrite your current operating system with macOS and all data
 
 1.) Open Disk Management by pressing ⊞ + X, then by selecting Disk Management
 
-2.) Split the hard drive equally, then set up one of the partitions with these attributes:
+2.) Shrink the hard drive, then set up one of the partitions with these attributes:
 
 - Name: macOS
 - Size: [close-to-the-maximum-size] (leave 2-4 GB)
