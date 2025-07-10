@@ -14,10 +14,10 @@ But, you'll need to know the materials, so, here's the materials needed.
 
 ## Materials
 
-- 💾 [USB Drive] — Required for the Internal Drive Guide
-- 💽 [External SSD] — Required for the External Drive Guide
+- 💾 USB Drive — Required for the Internal Drive Guide
+- 💽 External SSD — Required for the External Drive Guide
 - 🛠️ [EFI Folder](./EFI) — Main EFI files for Hackintosh installation
-- 📚 [Docs] — Guides, troubleshooting, and documentation for this project
+- 📚 Docs — Guides, troubleshooting, and documentation for this project
 - 📦 [Kexts](./Kexts) — Essential kexts for the Dell Latitude 3190
 - 📝 [config.plist](./EFI/OC/config.plist) — OpenCore configuration file
 
