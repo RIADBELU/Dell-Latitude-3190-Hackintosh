@@ -23,16 +23,6 @@ To get these, download the ZIP file, included in my latest release called, "Dell
 
 ---
 
-## Things To Look At Beforehand
-
-- 🖥️ [Screenshots](./screenshots) — Visual results and BIOS settings
-- ❗ [Known Issues](./docs/known-issues.md) — List of current limitations or bugs
-- ✅ [Compatibility List](./docs/compatibility.md) — What works and what doesn’t
-- 🤝 [Contributing Guide](./CONTRIBUTING.md)
-- 📄 [License](./LICENSE)
-
----
-
 # Guide
 Over here, we'll list 2 ways to install the Hackintosh, the Internal Drive way and the External Drive way. It will take a little while depending on your internet and hard drive speed. So, please stay patient during the initial process. And this is for Windows users only. Alright, Let's move on, and I'll walk you through the steps! 
 
