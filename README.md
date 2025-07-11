@@ -18,7 +18,7 @@ But, you'll need to know the materials, so, here's the materials needed.
 - 💽 External SSD — Required for the External Drive Guide
 - 🛠️ [EFI Folder](./EFI) — Main EFI files for Hackintosh installation
 - 📚 Docs — Guides, troubleshooting, and documentation for this project
-- 📦 [Kexts](./Kexts) — Essential kexts for the Dell Latitude 3190
+- 📦 [Kexts](./EFI/OC/Kexts) — Essential kexts for the Dell Latitude 3190
 - 📝 [config.plist](./EFI/OC/config.plist) — OpenCore configuration file
 
 To get the EFI Folder, containing the kexts, config.plist, e.t.c., download the ZIP file, included in my latest release called, "Dell.Latitude.3190.Hackintosh.v.1.0.0.beta.pre-release.zip"
