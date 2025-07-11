@@ -26,7 +26,7 @@ To get the EFI Folder, containing the kexts, config.plist, e.t.c., download the 
 ---
 
 # Guide
-Over here, we'll list 2 ways to install the Hackintosh, the Internal Drive way and the External Drive way. It will take a little while depending on your internet and hard drive speed. So, please stay patient during the initial process. And this is for Windows users only. Alright, Let's move on, and I'll walk you through the steps! 
+Over here, we'll list 2 ways to install the Hackintosh, the Internal Drive way and the External Drive way. It will take a little while depending on your internet and hard drive speed. So, please stay patient during the initial process. And this is for Windows users only. Alright, Let's move on, and I'll walk you through the steps! And please note that this guide is for people currently using Windows on their Dell Latitude 3190. If you're using Linux, use another guide but also use the same files from this repository.
 
 ---
 
@@ -38,7 +38,7 @@ We'll show you 2 ways here. The Normal way and The Dual Boot way. First, let's s
 ### The Normal Way
 ---
 #### ⚠️WARNING⚠️
-This method will overwrite your current operating system with macOS and all data and old history will be lost! If you do not wish to continue, either skip this step or don't do this at all!
+This method will overwrite your current operating system with macOS and all data and old history will be lost! If you do not wish to continue, either skip this step or don't do this at all! If you dont care for any files or your operating system being deleted, you may continue..
 
 ---
 
@@ -139,7 +139,7 @@ This method will overwrite your current operating system with macOS and all data
 ## External Drive Way
 ---
 #### ⚠️WARNING⚠️
-This method will overwrite your current drive with macOS and all data and old history will be lost! If you want to keep and preserve your existing data, move your files into a safe location, otherwise, don't do this project at all!
+This method will overwrite your current drive with macOS and all data and old history will be lost! If you want to keep and preserve your existing data, move your files into a safe location outside of the external drive, otherwise, don't do this project at all! If you dont care for any files being deleted, you may continue..
 
 ---
 
