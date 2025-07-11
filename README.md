@@ -69,7 +69,7 @@ This method will overwrite your current operating system with macOS and all data
 - Format: APFS
 - Scheme: GPT (GUID Partition Table)
 
-10.) After that, head over to "Install macOS [codename] (alternatively, "Reinstall macOS [codename])
+10.) After that, head over to "Install macOS [codename]" (alternatively, "Reinstall macOS [codename]")
 
 11.) Install macOS to [your-hard-drive-name] disk
 
@@ -124,7 +124,7 @@ This method will overwrite your current operating system with macOS and all data
 - Format: APFS
 - Scheme: GPT (GUID Partition Table)
 
-12.) After that, head over to "Install macOS [codename] (alternatively, "Reinstall macOS [codename])
+12.) After that, head over to "Install macOS [codename]" (alternatively, "Reinstall macOS [codename]")
 
 13.) Install macOS to [your-hard-drive-name] disk
 
@@ -182,7 +182,7 @@ This method will overwrite your current operating system with macOS and all data
 - Format: APFS
 - Scheme: GPT (GUID Partition Table)
 
-12.) After that, head over to "Install macOS [codename] (alternatively, "Reinstall macOS [codename])
+12.) After that, head over to "Install macOS [codename]" (alternatively, "Reinstall macOS [codename]")
 
 13.) Install macOS to [your-hard-drive-name] disk
 
