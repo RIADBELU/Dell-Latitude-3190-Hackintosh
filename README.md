@@ -90,11 +90,11 @@ This method will overwrite your current operating system with macOS and all data
 
 1.) Open Disk Management by pressing ⊞ + X, then by selecting Disk Management
 
-2.) Split the Windows partition equally, then set up the partition with these attributes:
+2.) Split the Windows partition equally, then set up the blank partition with these attributes:
 
 - Name: macOS
 - Size: [close-to-the-maximum-size] (Leave at least 2-4 GB)
-- Format: FAT32
+- Format: exFAT
 - Allocation size (if asked): Default
 
 3.) Then, get and prepare a USB with at least 8-16GB with the nessecary files (e.g. com.apple.recovery.boot, and the EFI folder)
@@ -139,16 +139,21 @@ This method will overwrite your current operating system with macOS and all data
 ## External Drive Way
 ---
 #### ⚠️WARNING⚠️
-This method will overwrite your current drive with macOS and all data and old history will be lost! If you want to keep and preserve your existing data, move your files into a safe location outside of the external drive, otherwise, don't do this project at all! If you dont care for any files being deleted, you may continue..
+This method will overwrite your current external drive with macOS and all data and old history will be lost! If you want to keep and preserve your existing data, move your files into a safe location outside of the external drive, otherwise, don't do this project at all! If you dont care for any files being deleted, you may continue..
+
+---
+
+#### Before We May Continue
+Before we may continue, we'll need to format your external drive. To do so, open File Explorer, then right-click on your external drive in the sidebar, then click "Format..", after that, keep everything as is in the menu (But, make sure "Quick Format" is enabled), then click Format. Once the format is complete, then we may continue with our guide.
 
 ---
 
 1.) Open Disk Management by pressing ⊞ + X, then by selecting Disk Management
 
-2.) Shrink the hard drive, then set up one of the partitions with these attributes:
+2.) Shrink the external drive, then set up one of the partitions with these attributes:
 
 - Name: macOS
-- Size: [close-to-the-maximum-size] (leave 2-4 GB)
+- Size: [close-to-the-maximum-size] (leave 2-4 GB available)
 - Format: exFAT
 - Allocation size (if asked for): Default
 
