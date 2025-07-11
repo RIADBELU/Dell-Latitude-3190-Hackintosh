@@ -137,6 +137,9 @@ This method will overwrite your current operating system with macOS and all data
 ---
 
 ## External Drive Way
+---
+#### ⚠️WARNING⚠️
+This method will overwrite your current drive with macOS and all data and old history will be lost! If you want to keep and preserve your existing data, move your files into a safe location, otherwise, don't do this project at all!
 
 1.) Open Disk Management by pressing ⊞ + X, then by selecting Disk Management
 
