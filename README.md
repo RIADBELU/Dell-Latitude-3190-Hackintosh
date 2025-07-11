@@ -128,7 +128,7 @@ This method will overwrite your current operating system with macOS and all data
 
 13.) Install macOS to [your-hard-drive-name] disk
 
-14.) Wait patiently after Step 11, your computer will reboot several times (each time, just select "macOS Installer", but if you see [your-hard-drive-name]-Data, select that)
+14.) Wait patiently after Step 13, your computer will reboot several times (each time, just select "macOS Installer", but if you see [your-hard-drive-name]-Data, select that)
 
 15.) When you see the setup screen, set up your device the way you like it. 
 
@@ -195,7 +195,7 @@ Before we may continue, we'll need to format your external drive. To do so, open
 
 13.) Install macOS to [your-hard-drive-name] disk
 
-14.) Wait patiently after Step 11, your computer will reboot several times (each time, just select "macOS Installer", but if you see [your-hard-drive-name]-Data, select that)
+14.) Wait patiently after Step 13, your computer will reboot several times (each time, just select "macOS Installer", but if you see [your-hard-drive-name]-Data, select that)
 
 15.) When you see the setup screen, set up your device the way you like it. 
 
