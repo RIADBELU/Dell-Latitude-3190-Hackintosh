@@ -137,7 +137,6 @@ This method will overwrite your current operating system with macOS and all data
 ---
 
 ## External Drive Way
----
 
 1.) Open Disk Management by pressing ⊞ + X, then by selecting Disk Management
 
