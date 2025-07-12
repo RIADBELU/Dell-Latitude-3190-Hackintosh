@@ -1,4 +1,19 @@
-# Dell-Latitude-3190-Hackintosh
+<p align="center"><img src="https://raw.githubusercontent.com/RIADBELU/Dell-Latitude-3190-Hackintosh/refs/heads/main/src/github%20assets/Screenshot%202025-07-11%20182759.jpg" width="180"></p>
+<h1 align="center">Dell Latitude 3190 (Hackintosh)</h1>
+<p align="center">
+  My own Hackintosh configured for the Dell Latitude 3190 2-in-1 Laptop.
+  <br><br>
+   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh"><img src="https://img.shields.io/github/languages/top/amnweb/yasb"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/issues"><img src="https://img.shields.io/github/issues/amnweb/yasb?label=Issues"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/releases"><img src="https://img.shields.io/github/downloads/amnweb/yasb/total?label=Total%20Downloads"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/releases/latest"><img src="https://img.shields.io/github/v/release/amnweb/yasb?label=Latest%20Release"></a>
+  <a href="https://discord.gg/8aKs69x" title="Discord"><img alt="Discord" src="https://img.shields.io/discord/1353495377768218654?label=Discord&cacheSeconds=600"></a>
+</p>
+
+***
+
+ # About The Project
 I've managed to get OpenCore and Hackintosh working on the Dell Latitude 3190 2-in-1 Laptop.
 Please note that if there are some glitches, bugs, or anything. Please report them to me.
 Any files or the config.plist may subject to change in the future.
