@@ -4,10 +4,10 @@
   My own Hackintosh configured for the Dell Latitude 3190 2-in-1 Laptop.
   <br><br>
    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh"><img src="https://img.shields.io/github/languages/top/amnweb/yasb"></a>
-  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/issues"><img src="https://img.shields.io/github/issues/amnweb/yasb?label=Issues"></a>
-  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/releases"><img src="https://img.shields.io/github/downloads/amnweb/yasb/total?label=Total%20Downloads"></a>
-  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/releases/latest"><img src="https://img.shields.io/github/v/release/amnweb/yasb?label=Latest%20Release"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh"><img src="https://img.shields.io/github/languages/top/RIADBELU/Dell-Latitude-3190-Hackintosh"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/issues"><img src="https://img.shields.io/github/issues/RIADBELU/Dell-Latitude-3190-Hackintosh?label=Issues"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/releases"><img src="https://img.shields.io/github/downloads/RIADBELU/Dell-Latitude-3190-Hackintosh/total?label=Total%20Downloads"></a>
+  <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh/releases/latest"><img src="https://img.shields.io/github/v/release/RIADBELU/Dell-Latitude-3190-Hackintosh?label=Latest%20Release"></a>
   <a href="https://discord.gg/8aKs69x" title="Discord"><img alt="Discord" src="https://img.shields.io/discord/1353495377768218654?label=Discord&cacheSeconds=600"></a>
 </p>
 
