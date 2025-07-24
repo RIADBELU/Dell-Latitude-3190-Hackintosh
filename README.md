@@ -65,8 +65,8 @@ This method will overwrite your current operating system with macOS and all data
 
 - Disable Secure Boot
 - Switch from SATA to AHCI
-- Set OpenCore as the first boot priority
-- Set your USB as the second boot priority
+- Set your USB as the first boot priority
+- Set OpenCore as the second boot priority
 
 4.) Save your changes and exit the BIOS.
 
@@ -120,8 +120,8 @@ This method will overwrite your current operating system with macOS and all data
 
 - Disable Secure Boot
 - Switch from SATA to AHCI
-- Set OpenCore as the first boot priority
-- Set your USB as the second boot priority
+- Set your USB as the first boot priority
+- Set OpenCore as the second boot priority
 
 6.) Save your changes and exit the BIOS.
 
@@ -187,8 +187,8 @@ Before we may continue, we'll need to format your external drive. To do so, open
 
 - Disable Secure Boot
 - Switch from SATA to AHCI
-- Set OpenCore as the first boot priority
-- Set your hard drive as the second boot priority
+- Set your external hard drive as the first boot priority
+- Set OpenCore as the second boot priority
 
 6.) Save your changes and exit the BIOS.
 
