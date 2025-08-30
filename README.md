@@ -147,7 +147,7 @@ This method will overwrite your current operating system with macOS and all data
 
 15.) When you see the setup screen, set up your device the way you like it. 
 
-16.) When you get in, mount your internal EFI partition (via MountEFI) and merge your EFI subfolders with your Microsoft ones
+16.) When you get in, mount your internal EFI partition (via MountEFI) and merge your EFI subfolders (BOOT, and OC) with your Microsoft ones when it asks you
 
 17.) That's it! Enjoy! If nessecary, install the drivers for the Dell Latitude 3190
 
