@@ -160,60 +160,57 @@ This method will overwrite your current external drive with macOS and all data a
 
 ---
 
-#### Before We May Continue
-Before we may continue, we'll need to format your external drive. To do so, open File Explorer, then right-click on your external drive in the sidebar, then click "Format..", after that, keep everything as is in the menu (But, make sure "Quick Format" is enabled), then click Format. Once the format is complete, then we may continue with our guide.
-
----
-
 1.) Open Disk Management by pressing ⊞ + X, then by selecting Disk Management
 
-2.) Shrink the external drive, then set up one of the partitions with these attributes:
+2.) Delete ALL of your partitions on your external hard drive
+
+3.) Then set up one of the partitions with these attributes:
 
 - Name: macOS
 - Size: [close-to-the-maximum-size] (leave 2-4 GB available)
 - Format: exFAT
 - Allocation size (if asked for): Default
 
-3.) Use the other space to make a new partition, using these attributes:
+4.) Use the other space to make a new partition, using these attributes:
 
 - Name: EFI
 - Size: 2-4 GB
 - Format: FAT32
 - Allocation size (if asked for): Default
 
-3.) Then, get and prepare the EFI partition with the nessecary files (e.g. com.apple.recovery.boot, and the EFI folder)
+5.) Then, get and prepare the EFI partition with the nessecary files (e.g. com.apple.recovery.boot, and the EFI folder)
 
-4.) Restart your Dell Latitude 3190, then head into BIOS
+6.) Restart your Dell Latitude 3190, then head into BIOS
 
-5.) Do this in the BIOS:
+7.) Do this in the BIOS:
 
 - Disable Secure Boot
 - Switch from SATA to AHCI
 - Set your external hard drive as the first boot priority
 - Set OpenCore as the second boot priority
 
-6.) Save your changes and exit the BIOS.
+8.) Save your changes and exit the BIOS.
 
-7.) Once you're in OpenCore, select "macOS Recovery"
+9.) Once you're in OpenCore, select "macOS Recovery"
 
-8.) Once you're in reovery, head over to Disk Utility
+10.) Once you're in reovery, head over to Disk Utility
 
-9.) Click "Show All Disks"
+11.) Click "Show All Disks"
 
-10.) Head over to the macOS disk and erase it.
+12.) Head over to the macOS disk and erase it.
 
-11.) At the Erase Disk screen, do this:
+13.) At the Erase Disk screen, do this:
  
 - Name: macOS (or Macintosh HD)
 - Format: APFS
 - Scheme: GPT (GUID Partition Table)
 
-12.) After that, head over to "Install macOS [codename]" (alternatively, "Reinstall macOS [codename]")
+14.) After that, head over to "Install macOS [codename]" (alternatively, "Reinstall macOS [codename]")
 
-13.) Install macOS to [your-hard-drive-name] disk
+14.) Install macOS to [your-hard-drive-name] disk
 
-14.) Wait patiently after Step 13, your computer will reboot several times (each time, just select "macOS Installer", but if you see [your-hard-drive-name]-Data, select that)
+15.) Wait patiently after Step 13, your computer will reboot several times (each time, just select "macOS Installer", but if you see [your-hard-drive-name]-Data, select that)
 
-15.) When you see the setup screen, set up your device the way you like it. 
+16.) When you see the setup screen, set up your device the way you like it. 
 
-16.) That's it! Enjoy! If nessecary, install the drivers for the Dell Latitude 3190
+17.) That's it! Enjoy! If nessecary, install the drivers for the Dell Latitude 3190
