@@ -147,7 +147,9 @@ This method will overwrite your current operating system with macOS and all data
 
 15.) When you see the setup screen, set up your device the way you like it. 
 
-16.) That's it! Enjoy! If nessecary, install the drivers for the Dell Latitude 3190
+16.) When you get in, mount your internal EFI partition (via MountEFI) and merge your EFI subfolders with your Microsoft ones
+
+17.) That's it! Enjoy! If nessecary, install the drivers for the Dell Latitude 3190
 
 ---
 
@@ -179,7 +181,7 @@ Before we may continue, we'll need to format your external drive. To do so, open
 - Format: FAT32
 - Allocation size (if asked for): Default
 
-3.) Then, get and prepare the EFI folder with the nessecary files (e.g. com.apple.recovery.boot, and the EFI folder)
+3.) Then, get and prepare the EFI partition with the nessecary files (e.g. com.apple.recovery.boot, and the EFI folder)
 
 4.) Restart your Dell Latitude 3190, then head into BIOS
 
