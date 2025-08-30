@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/RIADBELU/Dell-Latitude-3190-Hackintosh/refs/heads/main/src/github%20assets/Screenshot%202025-07-11%20182759.jpg" width="180"></p>
 <h1 align="center">Dell Latitude 3190 (Hackintosh)</h1>
 <p align="center">
-  My own Hackintosh configured for the Dell Latitude 3190 2-in-1 Laptop.
+  My own OpenCore Hackintosh configured for the Dell Latitude 3190 2-in-1 Laptop.
   <br><br>
    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh"><img src="https://img.shields.io/github/languages/top/RIADBELU/Dell-Latitude-3190-Hackintosh"></a>
