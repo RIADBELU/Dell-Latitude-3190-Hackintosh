@@ -72,7 +72,7 @@ This method will overwrite your current operating system with macOS and all data
 
 5.) Once you're in OpenCore, select "macOS Recovery"
 
-6.) Once you're in reovery, head over to Disk Utility
+6.) Once you're in recovery, head over to Disk Utility
 
 7.) Click "Show All Disks"
 
@@ -127,7 +127,7 @@ This method will overwrite your current operating system with macOS and all data
 
 7.) Once you're in OpenCore, select "macOS Recovery"
 
-8.) Once you're in reovery, head over to Disk Utility
+8.) Once you're in recovery, head over to Disk Utility
 
 9.) Click "Show All Disks"
 
@@ -193,7 +193,7 @@ This method will overwrite your current external drive with macOS and all data a
 
 9.) Once you're in OpenCore, select "macOS Recovery"
 
-10.) Once you're in reovery, head over to Disk Utility
+10.) Once you're in recovery, head over to Disk Utility
 
 11.) Click "Show All Disks"
 
